@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Mullvad Browser
+GenericName=Web Browser
+Comment=Privacy-focused web browser
+Exec=mullvad-browser %u
+Icon=mullvad-browser
+Terminal=false
+StartupWMClass=Mullvad Browser
+Categories=Network;WebBrowser;Security;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;
+Keywords=Internet;WWW;Browser;Web;Privacy;

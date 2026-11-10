@@ -1,0 +1,18 @@
+# makepkg output and upstream downloads
+*.pkg.tar.*
+*.src.tar.*
+*.tar.xz
+*.tar.xz.asc
+pkg/
+src/
+
+# editors / OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# local tooling
+.claude/
+*.log
